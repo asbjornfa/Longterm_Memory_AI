@@ -19,4 +19,4 @@ collection = db["conversations"]
 model = "gemma2:9b"
 ```
 
-Happy programming
+Happy programming :)
